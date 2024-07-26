@@ -1,9 +1,0 @@
-public class PrimeMinister {
-  public static void primeminister(String[] primeministers) {
-    System.out.println("Start primeminister");
-    for (String pm : primeministers) {
-      System.out.println("Prime Minister: " + pm);
-    }
-    System.out.println("End primeminister");
-  }
-}

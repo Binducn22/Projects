@@ -1,8 +1,0 @@
-class MinisterRunner
-{
-	public static void main(String[] args)
-	{
-		System.out.println("Hello");
-		Minister.serve();
-	}
-}
