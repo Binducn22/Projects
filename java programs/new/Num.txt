@@ -1,0 +1,15 @@
+class Num
+{
+	public int positiveornegative(int number)
+	{
+		if (number < 0) 
+		{
+			System.out.println("Negative number");
+		} 
+		else 
+		{
+			System.out.println("positive number");
+		}
+        return 0; 
+    }
+}

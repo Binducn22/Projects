@@ -1,0 +1,4 @@
+java-object oriented programming language
+JDK-java development kit
+
+3. command prompt check java version
